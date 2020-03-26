@@ -15,3 +15,4 @@
 15. Collaborate, don’t compete
 16. [Have open plans other teams can see](https://trello.com/b/U4uyig9o/suport-line-roadmap)
 
+[Propose changes on GitHub](https://github.com/britishredcrosssociety/covid-19-design-principles)
