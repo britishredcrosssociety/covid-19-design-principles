@@ -1,4 +1,4 @@
-# Practical principles for designing services responding to Covid-19
+# Principles for designing services responding to Covid-19
 
 1. [Have a shared team goal](http://www.myddelton.co.uk/blog/building-local-welcome-by-tackling-our-riskiest-assumptions) about what we’re doing and why
 2. [Focus on unmet needs, for now and later](https://medium.com/digital-and-innovation-at-british-red-cross/mapping-unmet-needs-f0cf830b307d)
