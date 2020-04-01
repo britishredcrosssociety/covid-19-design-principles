@@ -6,13 +6,14 @@
 6. Be open about how information is used
 7. [Remember to still make the service usable and accessible](https://twitter.com/timpaul/status/1239851793112276993)
 8. Build [practical things that help frontline colleagues](https://support-line-operator-manual.herokuapp.com/signposting)
-9. Test with frontline colleagues before going live
-10. Operate remotely, [delivery locally](https://reserves.redcross.org.uk/)
-11. Delivery the service reliably over weeks and months
-12. Spread team knowledge for how to operate and fix things
-13. Generate data automatically about how the service is performing
-14. Let other organisations join and copy what works
-15. Collaborate, don’t compete
-16. [Have open plans other teams can see](https://trello.com/b/U4uyig9o/suport-line-roadmap)
+9. [Don't automate things until we know they work](http://www.myddelton.co.uk/blog/building-local-welcome-by-tackling-our-riskiest-assumptions)
+10. Test with frontline colleagues before going live
+11. Operate remotely, [delivery locally](https://reserves.redcross.org.uk/)
+12. Delivery the service reliably over weeks and months
+13. Spread team knowledge for how to operate and fix things
+14. Generate data automatically about how the service is performing
+15. Let other organisations join and copy what works
+16. Collaborate, don’t compete
+17. [Have open plans other teams can see](https://trello.com/b/U4uyig9o/suport-line-roadmap)
 
 [Propose changes on GitHub](https://github.com/britishredcrosssociety/covid-19-design-principles)
